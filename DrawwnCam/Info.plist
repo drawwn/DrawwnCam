@@ -30,6 +30,8 @@
 	<string>NSApplication</string>
 	<key>NSSupportsAutomaticTermination</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>We need your permission to access your camera.</string>
 	<key>NSSupportsSuddenTermination</key>
 	<true/>
 </dict>
